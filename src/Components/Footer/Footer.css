@@ -1,0 +1,11 @@
+.footer{
+    background-color: #ff86a2;
+    height: 100px;
+    overflow: hidden;
+}
+
+.text p{
+    color: white;
+    font-size: 20px;
+    overflow: hidden;
+}

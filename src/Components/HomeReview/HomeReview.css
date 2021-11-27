@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+
+.title{
+    font-family: 'Zen Antique', serif; 
+}
+
+.blogName{
+    color: black;
+    text-align: center;
+}
+
+#description{
+    text-align: justify;
+}
+  

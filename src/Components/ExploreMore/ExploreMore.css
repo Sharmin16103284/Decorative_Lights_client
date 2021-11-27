@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+
+.service{
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20;   
+    font-family: 'Zen Antique', serif; 
+}
+
+.card-img{
+    height: 200px;
+    width: 100%;
+}
+
+
+.detailsLink{
+    color: black;
+    text-decoration: none !important;
+   
+}
+
+#description small{
+     font-size: 1em;
+}

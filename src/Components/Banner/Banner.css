@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+.banner-img img{
+    width: 100%;
+    text-align: left;
+}
+
+.bannerText{
+    font-family: 'Zen Antique', serif;
+    margin-left: 3%;
+    text-align: left;
+}

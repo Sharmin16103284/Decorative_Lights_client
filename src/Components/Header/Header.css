@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+.topMenu{ 
+      margin: 0 -1%;
+}
+.menu{
+    font-family: 'Zen Antique', serif;
+  
+}
+
+.logo h2{
+    color: white;
+    /* margin-top: 10px; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Zen Antique', serif;
+}
+
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    padding-top: 15px;
+    text-decoration: none;
+  }
+  .menubar{
+      background-color: #ff86a2;
+  }
+
+  .signup{
+    background-color: #fd90aa;
+    border: 1px solid #fd4872;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px 20px;
+    color: black;
+  }
+
+  .logo-img{
+      padding-bottom: 10px;
+  }
+
+  .logo-img img{
+      border: 1px solid rgb(3, 91, 163);
+      border-radius: 50%;
+      height: 60px;
+      width: 60px;
+      margin-right: 10px;
+
+  }
+
+  .user-name{
+      color: black;
+      font-weight: 100;
+      padding: 10px;
+      margin-top:15px;
+      
+  }

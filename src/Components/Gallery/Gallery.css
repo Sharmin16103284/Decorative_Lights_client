@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+
+.title{
+    font-family: 'Zen Antique', serif; 
+}
+
+.fullcard{
+    padding: 5px;
+}
+
+.images{
+    transition: transform 1s ease-in-out;
+}
+
+.images:hover{
+    transform: scale(1.1);
+}

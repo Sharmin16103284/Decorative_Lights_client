@@ -1,0 +1,16 @@
+.login-bg{
+    /* background-image: url('https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80'); */
+    background-image: url('https://images2.alphacoders.com/238/thumb-1920-238870.jpg');
+    height: 500px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin:10px 0px;
+    padding:0;
+    /* margin-bottom: 10px; */
+}
+
+
+
