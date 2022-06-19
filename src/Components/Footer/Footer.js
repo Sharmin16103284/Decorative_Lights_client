@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className="row footer p-5">
         <div className="col-md-12 text">
-          <p>Designed and Developed by Sharmin Sultana</p>
+          <p>All Rights Reserved.</p>
         </div>
       </div>
     </div>
